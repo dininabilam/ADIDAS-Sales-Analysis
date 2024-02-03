@@ -1,2 +1,2 @@
-# ADIDAS-Sales-Analysis
-ADIDAS Sales Analysis
+#🌟 Adidas-Sales-Analysis: Unraveling the Secrets of Adidas' Sales Success 📊
+## Snippet
