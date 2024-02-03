@@ -13,9 +13,9 @@
 ## 💡 Conclusion
 This thorough analysis of Adidas’ sales trajectory highlights the brand’s strong market position, celebrating its successes and identifying avenues for future growth. To stay ahead in the fast-paced sportswear industry, Adidas should focus on:
 
-🔧 Advancing product innovation
-🎯 Refining marketing strategies
-🛍️ Bolstering omnichannel presence
-🌱 Emphasizing sustainability
+  - 🔧 Advancing product innovation
+  - 🎯 Refining marketing strategies
+  - 🛍️ Bolstering omnichannel presence
+  - 🌱 Emphasizing sustainability
 
 Equipped with these insights and a customer-centric approach, Adidas is poised to continue its reign as a global leader, offering exceptional products and experiences to its diverse customer base.
